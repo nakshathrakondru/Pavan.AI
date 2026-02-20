@@ -56,12 +56,17 @@ cd Pavan.AI
 
 3. Install dependencies
 
+```
 pip install -r requirements.txt
+```
 
 4. Run the application
 
+```
 python app.py
+```
 
+---
 
 ## Future Improvements
 
@@ -70,6 +75,7 @@ python app.py
 * Historical pollution trend tracking
 * Predictive analysis using Machine Learning
 
+---
 
 ## Author
 
